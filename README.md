@@ -31,18 +31,38 @@ I enjoy exploring data, building machine learning models and developing applicat
 ### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,mysql,mongodb,git,github,linux" />
+  <img title="Python" src="https://skillicons.dev/icons?i=python" width="48" />
+  <img title="C" src="https://skillicons.dev/icons?i=c" width="48" />
+  <img title="JavaScript" src="https://skillicons.dev/icons?i=js" width="48" />
+  <img title="HTML" src="https://skillicons.dev/icons?i=html" width="48" />
+  <img title="CSS" src="https://skillicons.dev/icons?i=css" width="48" />
+  <img title="MySQL" src="https://skillicons.dev/icons?i=mysql" width="48" />
+  <img title="Git" src="https://skillicons.dev/icons?i=git" width="48" />
+  <img title="GitHub" src="https://skillicons.dev/icons?i=github" width="48" />
+  <img title="Linux" src="https://skillicons.dev/icons?i=linux" width="48" />
+  <img title="Figma" src="https://skillicons.dev/icons?i=figma" width="48" />
+  <img title="Android Studio" src="https://skillicons.dev/icons?i=androidstudio" width="48" />
+  <img title="VS Code" src="https://skillicons.dev/icons?i=vscode" width="48" />
+  <img title="Google Cloud" src="https://skillicons.dev/icons?i=gcp" width="48" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+  <img title="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img title="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img title="Scikit-learn" src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+      <img title="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+  <img title="Mobile Application Development" src="https://img.shields.io/badge/Mobile_App_Development-3DDC84?style=flat-square&logo=android&logoColor=white" />
+  <img title="Generative AI" src="https://img.shields.io/badge/Generative_AI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img title="Prompt Engineering" src="https://img.shields.io/badge/Prompt_Engineering-7B61FF?style=flat-square&logo=probot&logoColor=white" />
+  <img title="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img title="Databricks" src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" />
+  <img title="Apache Spark" src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+  <img title="PySpark" src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+  <img title="Delta Lake" src="https://img.shields.io/badge/Delta_Lake-00ADD8?style=flat-square&logo=delta&logoColor=white" />
+  <img title="MLflow" src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
+  <img title="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+  <img title="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" />
+  <img title="Seaborn" src="https://img.shields.io/badge/Seaborn-76B7B2?style=flat-square&logo=python&logoColor=white" />
 </p>
 
 ---
