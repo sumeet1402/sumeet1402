@@ -1,6 +1,6 @@
-# Hey, I'm Sumeet Mandhre
-
 <p align="center">
+  <img src="./profile-banner.png" width="100%" alt="Sumeet Mandhre — AI/ML Engineer" />
+</p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Aspiring+AI%2FML+Engineer;Building+with+Python+%26+Machine+Learning;Exploring+Data+%2C+AI+%26+MLOps;Turning+ideas+into+real+applications" alt="Typing introduction" />
 </p>
 
