@@ -1,212 +1,147 @@
-# Hey, I'm Sumeet Mandhre
+# S U M E E T  M A N D H R E
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Aspiring+AI%2FML+Engineer;Building+with+Python+%26+Machine+Learning;Exploring+Data+%2C+AI+%26+MLOps;Turning+ideas+into+real+applications" alt="Typing introduction" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Sumeet%20Mandhre&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20ENGINEER%20%7C%20BUILDER%20%7C%20TECH%20ENTHUSIAST&descAlignY=58&descSize=15&color=0:050816,45:101B3D,100:32145B" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=00F5FF&center=true&vCenter=true&width=750&lines=Building+Intelligent+Systems.;Turning+Data+Into+Insights.;Exploring+the+Future+of+AI.;Learning.+Experimenting.+Creating." alt="Animated introduction" />
 </p>
 
 <p align="center">
   <a href="https://github.com/sumeet1402">
-    <img src="https://img.shields.io/badge/GitHub-sumeet1402-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GITHUB-050816?style=for-the-badge&logo=github&logoColor=00F5FF" />
   </a>
   <a href="https://www.linkedin.com/in/sumeet-mandhre-7829aa26b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LINKEDIN-050816?style=for-the-badge&logo=linkedin&logoColor=00F5FF" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=sumeet1402&style=for-the-badge&color=blueviolet" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=sumeet1402&style=for-the-badge&color=712cf9&label=PROFILE+VISITORS" />
+</p>
+
+<p align="center">
+  <code>ENGINEERING</code> &nbsp; <code>ARTIFICIAL INTELLIGENCE</code> &nbsp; <code>INNOVATION</code>
 </p>
 
 ---
 
-### About Me
+## 01 / THE HUMAN BEHIND THE CODE
 
-I'm a Computer Engineering graduate interested in **Artificial Intelligence, Machine Learning and Data Science**.
+```python
+class Sumeet:
+    def __init__(self):
+        self.role = "Aspiring AI/ML Engineer"
+        self.education = "Computer Engineering"
+        self.interests = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Deep Learning",
+            "Data Science",
+            "MLOps"
+        ]
+        self.current_focus = "Building practical AI solutions"
 
-I enjoy exploring data, building machine learning models and developing applications that turn technical ideas into practical solutions.
+    def philosophy(self):
+        return "Learn deeply. Build boldly. Improve constantly."
+```
 
-- Currently exploring AI/ML engineering and MLOps.
-- Interested in machine learning, deep learning and data-driven applications.
-- Always experimenting with new tools, technologies and ideas.
+I'm a Computer Engineering graduate fascinated by the intersection of data, intelligence and technology.
 
----
+I enjoy developing machine learning models, exploring complex datasets and transforming ideas into useful applications.
 
-### Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,mysql,mongodb,git,github,linux" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-</p>
+**My mission:** Keep learning, build meaningful things and push beyond what I already know.
 
 ---
 
-### Featured Projects
+## 02 / TECHNOLOGY MATRIX
+
+<p align="center"><b>PROGRAMMING LANGUAGES</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css&theme=dark" />
+</p>
+
+<p align="center"><b>AI / DATA SCIENCE</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-0B1020?style=for-the-badge&logo=pandas&logoColor=00F5FF" />
+  <img src="https://img.shields.io/badge/NumPy-0B1020?style=for-the-badge&logo=numpy&logoColor=00F5FF" />
+  <img src="https://img.shields.io/badge/Scikit--learn-0B1020?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
+  <img src="https://img.shields.io/badge/PyTorch-0B1020?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
+  <img src="https://img.shields.io/badge/Matplotlib-0B1020?style=for-the-badge&logo=python&logoColor=00F5FF" />
+</p>
+
+<p align="center"><b>DATA ENGINEERING / MLOPS</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Databricks-0B1020?style=for-the-badge&logo=databricks&logoColor=FF3621" />
+  <img src="https://img.shields.io/badge/Apache_Spark-0B1020?style=for-the-badge&logo=apachespark&logoColor=E25A1C" />
+  <img src="https://img.shields.io/badge/Delta_Lake-0B1020?style=for-the-badge&logo=delta&logoColor=00F5FF" />
+  <img src="https://img.shields.io/badge/MLflow-0B1020?style=for-the-badge&logo=mlflow&logoColor=0194E2" />
+</p>
+
+<p align="center"><b>DEVELOPMENT / DATABASES</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,streamlit,mysql,mongodb,git,github&theme=dark" />
+</p>
+
+---
+
+## 03 / SELECTED MISSIONS
 
 <p align="center">
-  <i>A few things I've been building and experimenting with.</i>
+  <i>Ideas transformed into experiments, models and applications.</i>
 </p>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
+<p align="center">
+  <img src="https://img.shields.io/badge/PROJECT_01-COMPUTER_VISION-00F5FF?style=for-the-badge&labelColor=0B1020" />
+</p>
+
 <h3 align="center">Herbal Plant Classifier</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-ResNet18-EE4C2C?style=flat-square" />
-  <img src="https://img.shields.io/badge/Classes-40-2ea44f?style=flat-square" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/ResNet18-712CF9?style=flat-square" />
+  <img src="https://img.shields.io/badge/40_Classes-00A99D?style=flat-square" />
 </p>
 
-An image classification application that identifies 40 herbal plant categories using transfer learning.
+An image classification system designed to recognize 40 herbal plant categories.
 
-- PyTorch and ResNet18
-- Transfer learning
-- Streamlit interface
-- GitHub Actions automation
+**Core capabilities**
+- Transfer learning with ResNet18
+- Image classification using PyTorch
+- Interactive Streamlit application
+- Automated training workflows with GitHub Actions
 
 <p align="center">
   <a href="https://github.com/sumeet1402/Herbal-plant-classifier">
-    <img src="https://img.shields.io/badge/Explore_Repository-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/ACCESS_PROJECT-00F5FF?style=for-the-badge&logo=github&logoColor=black" />
   </a>
 </p>
 
 </td>
 <td width="50%" valign="top">
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PROJECT_02-MACHINE_LEARNING-712CF9?style=for-the-badge&labelColor=0B1020" />
+</p>
 
 <h3 align="center">Titanic — End-to-End ML Pipeline</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Delta_Lake-00A99D?style=flat-square" />
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square" />
 </p>
 
-An end-to-end machine learning project exploring the complete model development workflow.
+An end-to-end machine learning workflow exploring the model development lifecycle.
 
+**Core capabilities**
 - Data exploration and feature engineering
 - Logistic Regression, Decision Tree and Random Forest
-- Delta Lake and MLflow
-- Streamlit application
+- Delta Lake and MLflow experimentation
+- Streamlit application connected to a deployed model
 
 <p align="center">
   <a href="https://github.com/sumeet1402/Titanic-databricks-ml-pipeline">
-    <img src="https://img.shields.io/badge/Explore_Repository-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">Uber Trip Analysis & Fare Prediction</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Random_Forest-ML-2ea44f?style=flat-square" />
-</p>
-
-A data analysis and fare prediction project using Uber trip data.
-
-- Data analysis with Pandas
-- Trip pattern exploration
-- Random Forest regression
-- Interactive Streamlit dashboard
-
-<p align="center">
-  <a href="https://github.com/sumeet1402/Uber-Trip_data_analysis">
-    <img src="https://img.shields.io/badge/Explore_Repository-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">SQL Problem Solving</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Problem_Solving-8A2BE2?style=flat-square" />
-</p>
-
-A collection of SQL practice problems and solutions focused on improving analytical thinking.
-
-- Joins and subqueries
-- CTEs and window functions
-- Aggregations and filtering
-- Query optimization practice
-
-<p align="center">
-  <a href="https://github.com/sumeet1402/leetcode-sql">
-    <img src="https://img.shields.io/badge/Explore_Repository-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
-</td>
-</tr>
-</table>
-
----
-
-### GitHub Analytics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sumeet1402&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumeet1402&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=sumeet1402&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### A Little More About Me
-
-<details>
-<summary><b>What I'm currently interested in</b></summary>
-
-- Machine Learning and Deep Learning
-- AI-powered applications
-- Data Engineering and MLOps
-- Model deployment and serving
-- Building useful software products
-
-</details>
-
-<details>
-<summary><b>What I enjoy outside coding</b></summary>
-
-- Exploring new technologies
-- Designing interfaces
-- Gaming
-- Learning and experimenting with creative tools
-
-</details>
-
----
-
-### Let's Connect
-
-<p align="center">
-  <a href="https://github.com/sumeet1402">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/sumeet-mandhre-7829aa26b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <i>"Stay curious. Keep building. Make things that matter."</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=110&section=footer" />
-</p>
+    <img src="https://img.shields
