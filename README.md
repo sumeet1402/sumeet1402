@@ -16,8 +16,8 @@ I enjoy exploring data, developing machine learning models and turning ideas int
 | **Machine Learning** | Pandas, NumPy, Scikit-learn, PyTorch |
 | **Data Visualization** | Matplotlib, Seaborn |
 | **Data Engineering & MLOps** | Databricks, Apache Spark, PySpark, Delta Lake, MLflow |
-| **Development & Tools** | Streamlit, Git, GitHub, React.js |
-| **Databases** | MySQL, MongoDB |
+| **Development & Tools** | Streamlit, Git, GitHub |
+| **Databases** | MySQL |
 
 ---
 
