@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Animated Neon Glass Portfolio Banner.gif"
+  <img src="./Futuristic Glassmorphism AI Portfolio Banner.png"
        width="100%"
        alt="Sumeet Mandhre - AI/ML Engineer" />
 </p>
