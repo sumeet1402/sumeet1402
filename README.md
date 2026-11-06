@@ -1,11 +1,6 @@
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/sumeet1402/sumeet1402/main/sumeet_3d_skills_reveal_smooth.gif"
-    width="100%"
-    alt="Sumeet Mandhre — AI/ML Engineer Skills Reveal"
-  />
-</p>
+# Hey, I'm Sumeet Mandhre
 
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Aspiring+AI%2FML+Engineer;Building+with+Python+%26+Machine+Learning;Exploring+Data+%2C+AI+%26+MLOps;Turning+ideas+into+real+applications" alt="Typing introduction" />
 </p>
 
